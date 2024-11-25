@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devanshi-dobriyal-5943aa2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanshi-dobriyal-5943aa2b1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devanshi-dobriyal-5943aa2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanshi-dobriyal-5943aa2b1/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/#######" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#######" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Devanshi_666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Devanshi_666" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/######" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="######" height="30" width="40" /></a>
