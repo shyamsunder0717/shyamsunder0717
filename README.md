@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shyamsunders0708@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VScmX5WBR0e9Tnkw2Rdk1_Aa_TBzSOJy/view?usp=sharing](https://drive.google.com/file/d/18xUkoqzGkTUmXwE6X4EM5WBsJMmdQRFe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VScmX5WBR0e9Tnkw2Rdk1_Aa_TBzSOJy/view?usp=sharing](https://drive.google.com/file/d/1rEw2ldUVowDUIdvL62epKiA3ON-Q4K2O/view?usp=drive_link)
   
 - 👉 Portfolio Links or Other Accounts [https://linktr.ee/shyamsunder0708](https://linktr.ee/shyamsunder0708)
 
